@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # API Key and URL setup
-API_KEY="cc1132a09c959c92752a7424100015b0"
+API_KEY="your_api_key"
 API_URL="http://api.openweathermap.org/data/2.5/weather"
 
 # Function to fetch weather details
